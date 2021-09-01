@@ -43,7 +43,7 @@ bash <(curl -sSL https://raw.githubusercontent.com/YG-tsj/Oracle-warp/main/root.
 ### 整合WARP及其他多功能！多功能一键脚本(功能继续添加中……)：
 
  ```
- wget -N --no-check-certificate https://raw.githubusercontent.com/YG-tsj/Oracle-warp/main/multi.sh && chmod +x multi.sh && ./multi.sh
+ wget -N --no-check-certificate https://raw.githubusercontent.com/okoklai/Oracle-warp/main/multi.sh && chmod +x multi.sh && ./multi.sh
  ```
 
 #### 进入脚本快捷方式
